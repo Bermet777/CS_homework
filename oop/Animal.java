@@ -7,10 +7,7 @@ public class Animal {
 }
 
 class Dog extends Animal {
-  public static void main(String[] args) {
-    Dog myDog = new Dog();
-    myDog.eat();
-  }
+
 }
 
 
